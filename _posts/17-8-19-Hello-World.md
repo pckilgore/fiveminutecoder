@@ -4,8 +4,6 @@ title: hello world!
 ---
 
 # welcome to five minute coder
-
-## what we're about
 hi, this is a blog about building a microblog.  we're bootstrapping through Jekyll until we can get a more basic version of things up and running. 
 
 there are two halves to this project:
