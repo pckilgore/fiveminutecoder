@@ -1,0 +1,10 @@
+In the mornings, we start our blogs by answering:
+* what two things have I already programmed that are really great
+* I will do two things while I code today to make my code better
+* I will do two things while I code today to make my life better
+* and a daily affirmation (My code is ...)
+
+In the evening, we answer:
+* Two **_awesome_** things I learned while programming today.
+* Two things I wish I could have accomplished today.
+* How could I have achieved my goals any better today?
