@@ -1,7 +1,6 @@
 ---
 layout: post
 title: welcome to five minute coder
-excerpt_separator: <!--more-->
 ---
 
 This is a blog about building a microblog. We're bootstrapping through Jekyll until we can get a more basic version of things up and running. 
