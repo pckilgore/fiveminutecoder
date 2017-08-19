@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm pckilgore on Github, and five minute coder is my project to learn the following tech:
+* AWS Lamba backend (python) to severlessly generate static user sites served through S3
+* API authentication 
+* React frontend
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Not really taking pull requests on the project right now, but if you see something you'd like to bring to my attention (particularly security problems!) contact me through github!
