@@ -1,9 +1,8 @@
 ---
 layout: post
-title: hello world!
+title: welcome to five minute coder
 ---
 
-# welcome to five minute coder
 This is a blog about building a microblog. We're bootstrapping through Jekyll until we can get a more basic version of things up and running. 
 
 There are two halves to this project:
