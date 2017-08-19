@@ -10,7 +10,7 @@ There are two halves to this project:
 * idea stack
 
 We'll describe the tech stack later.  For this first post, the most important concept is the idea stack, because it is how we will be blogging this out in all posts to follow. 
-
+<!--more-->
 ## the small idea
 We're big fans of [The Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal).  Seriously, go check them out--we particularly like and use the [Android app](https://play.google.com/store/apps/details?id=com.intelligentchange.fiveminutejournal&hl=en) (there is an [iOS app too](https://itunes.apple.com/us/app/five-minute-journal/id1062945251?mt=8)).  The key insight is to answer several short questions in two sets: one to start the day and one to end it.
 
